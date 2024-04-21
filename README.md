@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JairoKazuo
 - 👀 I’m interested in learn about coding 
-- 🌱 I’m currently learning HTMl, CSS, JS, C++ and Python
+- 🌱 I’m currently learning HTML, CSS, JS, C++ and Python
 - 💞️ I’m looking to collaborate on my group
 - 📫 You cant send me an e-mail to jkazuodg@gmail.com
